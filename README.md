@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Sukanya Lakshmi 👋<br><br>🎓 B.Tech AIML Student (2026)<br>🐍 Python Developer<br>🤖 Generative AI & Machine Learning Enthusiast<br>☁️ Learning Cloud Computing<br>🚀 Building AI-powered applications and real-world projects<br>💡 Interested in LLMs, AI Agents, and Computer Vision<br><br>Currently focused on AI Engineering and LLM-based systems.
+Hi, I'm Sukanya Lakshmi 👋<br><br>🎓 B.Tech AIML Student (2027)<br>🐍 Python Developer<br>🤖 Generative AI & Machine Learning Enthusiast<br>☁️ Learning Cloud Computing<br>🚀 Building AI-powered applications and real-world projects<br>💡 Interested in LLMs, AI Agents, and Computer Vision<br><br>Currently focused on AI Engineering and LLM-based systems.
 
 
 ## 🌐 Socials:
