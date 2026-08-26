@@ -2,7 +2,7 @@
 Hi, I'm Sukanya Lakshmi 👋<br><br>🎓 B.Tech AIML Student (2027)<br>🐍 Python Developer<br>🤖 Generative AI & Machine Learning Enthusiast<br>☁️ Learning Cloud Computing<br>🚀 Building AI-powered applications and real-world projects<br>💡 Interested in LLMs, AI Agents, and Computer Vision<br><br>Currently focused on AI Engineering and LLM-based systems.
 
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sukanyalakshmi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sukanyalakshmigadamsetty@gmail.com) 
 
 # 💻 Tech Stack:
